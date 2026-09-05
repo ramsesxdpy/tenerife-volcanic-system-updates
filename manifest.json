@@ -1,8 +1,8 @@
 {
-  "version": "0.3.2",
+  "version": "0.3.3",
   "nativeVersion": "0.3.1",
-  "url": "https://github.com/ramsesxdpy/tenerife-volcanic-system-updates/releases/download/v0.3.2/update-0.3.2.zip",
-  "checksum": "574e080204ba41b5da2efa8d90db2414089bf6d52cd36e53b1a3680dc378b3a90a7cde58b7f4c225f276e5eb0df1ae85bb740e4b81e4a70e40163fa691ef76d658eab4cd480d48ced50f2d36fbd4b8bd2ec4e9d597111841e0ea9dbf1ad515a48d605b68145379aa7b9b5c13c8dfca65f31076fce985461a1fb9614456797c4299929c094d2fd7dd7f88bb3f75ea0ddf103769f42eb3b95346c15474a3fe6c677cfa93540074d497a88c78e6b963b3f69ca42ab5fdf3ef17a3624edbfa1a4a5ccef3f195a4400a1f9b16c2b501df8ece228d3824a077c265de89e7274a37ff3390d3af81dd4cb0195eb8c76f0bb85eeac9f63450e2f671cfc393a19de3ab96b9",
-  "sessionKey": "s8VjeedmGw3cNDlUUwjJag==:K6ORWgk7dTacLwHLSSdj7lHdLzmBJ7FcvjJGZy/Mf43Y9uoMyuSrvBVhtweaKdKw19GmY7lXF2YBPkYv8IsgnADMEDREoSOi2NyDdZKkr00XpGqkJ9GdNNhm2fPihpym7abUp8rQEGkx6x2F1dUP9WHEaV14bFyf558pA9v2ANcUz9NoiyQ/P6JvqL7gIWKQ3HCGIw2Uo/vq6X0Yd4U/CTSph/Cav/4Kc1Ia6RIgGkyXDAFZxr/qIBKTe7qrpgPmmNZ+cAJkliRzHx6RLGm2GtNrx+4hMkBVGPUdxdP0fFXgrx2HfG1rTMzD+oAGPtl0UmG/oPSxwou5vDBxto/V8g==",
-  "comment": "Magnitud sísmica y Episodios integrados en el panel temporal."
+  "url": "https://github.com/ramsesxdpy/tenerife-volcanic-system-updates/releases/download/v0.3.3/update-0.3.3.zip",
+  "checksum": "13607d0f5590d056a5b580d3a0573241295df2930af53ee2b16ae141aa74026500adebb5dd8ebdf9b6f6807bf2dcc887b7a320e1e6698875cbd334dc1a0a3037d20eb689e9bdb4e10a8482ca29bab330bb19dca60d43d4ecbd54e3c070e6b70ec5a8d38989d94726c31121dfe4bd4534dd6eaf07b231733e504057883b11f2c8f49bd605e3b8bb29cdadd8f3e798485e04fa8fee4e55529b02bd5f60605d494ca8a51925df5539ad1b8eda8b0ce7a4b0621dfc100c88a8a38d15fdd6b8bbc1f289e36a2137501254b4d4fe555d4e5f1582fe0485aee8d6becc5658809e81721ea0a22f5368840da3487b5edde1547ac740c26bc5db0e9e4bcc44e78d1e620413",
+  "sessionKey": "DDVypO6RlUFxf6QyfnMmYw==:CRm7QaDfj5hjyBw+lN8HMKZOfnQq0Zz93AnhKy+ZJUvEgLeNN4uPvg2s3Aaa8X1z6pzmOMnJWIgYggINu9Nw9CbEo1vmMqNN1Np+j4Mvb4iNRX9LL2ISD3bHn/My1AxZCYhVmc/jMNzjgzss1UNddHs32hxbMnVsy8R4Kzm8mjyP9QXdUNMxGzeWlCG4+87uoRFukJhJR6/M9EYb/HNnORrvKkNbTuNVMrlys082Zhf2HfTUaGcWs4usELhnD4Zk4gIY5Npf+yH6mwWCPMCSlo01GB2GYZ6/bYRe+c59GyBFG+eAd6E78NHqJabgz66Tnj/k4vz/dptwijsqScmPFA==",
+  "comment": "Lista de sismos en el panel temporal."
 }

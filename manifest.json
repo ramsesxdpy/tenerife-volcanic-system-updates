@@ -1,8 +1,8 @@
 {
-  "version": "0.3.8",
+  "version": "0.3.9",
   "nativeVersion": "0.3.1",
-  "url": "https://github.com/ramsesxdpy/tenerife-volcanic-system-updates/releases/download/v0.3.8/update-0.3.8.zip",
-  "checksum": "52107549eeccd8a6b4e0e6d0b6330690c252e18862516a530edff80172de210abfe350954b927f3c4e6910ccb69d3cf143d18499fcebbfdb3ae647efc2fb65642a7579534e6cd8c1d007976780233eb1c091749d12590d745855345a90a924f2c7e9ac27695ad5db702656527032d5d97449f3d89e3ed55102ff990217aa99c8fe4ec6f4d4935814682a9c30620806ffc401fadb20cc2011249427b44e76f76c250b8f0d09e2b0ab9f6d429c20ddf668490f4df36c2e7c73dc4cc404cbb1130b2f87d22ff43f04a0182522e5e0f53cfe7c08674577a80626eb60e04b5fb888e9ec3fdd6605babc894f47b1d71ba5c4503945afd75ab14989bf28a37d90c74533",
-  "sessionKey": "NfW+D+ipOeF1RoL724SD5w==:GEEU1hT+189IldVhIxAMDVyYPZ8cXpdNfWe27OIsz7aGaJ/hzVRLdvoYSC0TnPfpXCTOaoC9uUOY5m/Cp6A1DgFlmP62/n/zVefQiE7BQ4yvKsphwc4ianncNgtZfwoHNBSwquuACNt+q9kf/AC6CsHMN+FEGJYDsM/NV4wSXRdTeGEAgjPosx0bfyWzsPQSAnTxwcrM+OUEwK5F45xLBXV/KYWzuCp3PyumaWgsQ1UrgnQIMoToQFlXqQtRJYIDvlhVYwqU6FEbN6eZqRGeHLisniXYwZXgxfNO6f9n/CZWIqhYDSvg2mTZBB/G8k+KmBBqog9nTeWQy2RVJCTJaQ==",
-  "comment": "Interacción visual RF-sismicidad y controles móviles compactos."
+  "url": "https://github.com/ramsesxdpy/tenerife-volcanic-system-updates/releases/download/v0.3.9/update-0.3.9.zip",
+  "checksum": "c39af06367922eb478b4ad51e0569f650ecd510c1c53b776265b1d48fee8e7b69f4196352574b3d25a0f406c114582ce59c6017b1526105f4258083bcb519ac8b8d735a84c10bad72f1be5ce9f9f640cdf9b89c67b5bb1aab4602477e649f9c0b633f57df572c58155f6dc2f2e7828841d4778108b393db0ab305a9390bc911b2a777f431ce51477183258430303eeae49ca7fb28c0aa3ab15686b9c880d22771c3ed544f6c0b4bb421f2b212b6f6e85699f19c64702ec1c12fab0c2df381fd7c14e451d40f0727cb1d7e81672fa19a66ef7f61e16ed87f745b024afc9d7d251dc8ebb014c59f6478a26291bc0d8de41b6f0ec1d188f6173264233a04a849ae2",
+  "sessionKey": "68NRrQABoNiNNTrD33kbLQ==:FLgfxFQg2Evi0piStFg8ooHD2B0OtVEhyKBHE3wSB18Lbh1gND6feks1DJCA+AGCOYh9t8LshFIaornaDKpD5556jAAZvvvav4g9EgJmyypc8jXcAtdYTljkYuIkcFbDA86RkcQg9WIaGm+8LsQ9WoocqGB4v/dP4yi6rLuJ4iGzGUph6UW4+UnmYH2gEBKSfYO2YmUMLXciKMD5J1Wc9ztogTcAjcly05VR114UuIlH59K/dayCLEfOQJWVVO7bv5ekfwU6KhI/SbiEB1uPhiByYHMVwUL+bo89/Z+4GR6B/HAe5v+nDNqCVGTtiNiZsBlAdgAvCB2lW9gLyJnJUQ==",
+  "comment": "Espacio estadístico, control de outliers e inspección 3D."
 }

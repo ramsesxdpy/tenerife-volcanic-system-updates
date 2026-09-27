@@ -1,8 +1,8 @@
 {
-  "version": "0.3.13",
+  "version": "0.3.14",
   "nativeVersion": "0.3.1",
-  "url": "https://github.com/ramsesxdpy/tenerife-volcanic-system-updates/releases/download/v0.3.13/update-0.3.13.zip",
-  "checksum": "502bc34943d9c0f114236dd88180fd3b927f6c1946f1eadbc21ef0aca7bb10ce60fee9a01db6a82c255e639a814df515c3229ae2840e491f624a611cd14e6f0c82d4a0487dbaee5481e66042eb2dc710642d036b96074ffd3174e9a9bbfa1cf444febc8834fe1c22c936a0fc9915275687cd4325373bf2a39c2a96776c25ee5a60a301d78d2d3ad58c5e4d527bf503e029e0654230d15f50b070361bf7f080598ba38160cfcc00f7308c734574d5a30ae576225a6ef9de9f9a60d78a4d0f8e17cf2838a530d48402decbc9e2e704ef53c191e5b77471c243e30fa6fded952a9fbfa827dd1e88fe092a0f9583701a6a6380da07ee39a50087e975d0bc23692a84",
-  "sessionKey": "COK+Itw+rEQo4sa6LfMLEA==:alg0Lz/vxrIie9BKeDDLUYurC9mO5QrDXjpyLpO8VZw8OLZtsTq+fn2UBnm9aG4v3a8q/rKQSmTJ6AZD6rUq7QiMJHhatfTSBztOVmxrUw+k16IRmgfGn+hNpfspWxRk5JNxXiR7GBzf2UUyC6H1XSm9411VYwx6SFKpoFklw07FfFNGvaukJcUnZXaxRKQndVBxwm0rGxJtpbFepSqQSGMwN9E15QJvJCmhZ5B6zSDpN/L35+mKBFhE0M5mjizWQJ0ILQJy3y9A57vnptL8fLtY6rUj8jS5GpxxNbv8AOkX4ywT5illVLqooAIOqEP+crmpLcc2JQYnZsE/YwQb6Q==",
-  "comment": "VOLRam DATA Statistical Module V1 · estado auditado y validado."
+  "url": "https://github.com/ramsesxdpy/tenerife-volcanic-system-updates/releases/download/v0.3.14/update-0.3.14.zip",
+  "checksum": "b66d2ebc918177dc730f54519fb24c908460eabf04ee7fbd1ed3511df19edb906f5df0d65586684bda4dbd636b08c8e9b8fa2b3523a4867e97ec03b91891a6428c9a7e51596c6f2c1fe36cee5b7136f633070397f2e8ba9aa6161b2eb6934365e3193c2ff5c1f9ee622fd5516c4aa60006cb02367c33645639b90a91769c1f595acea0d13a3a01ca1c7454832363f1e953afe419a4dc65668be602d19d28be4822708fac289d41d0b483933b64c21beaec30531401596c5f1b38008784d28f11866a3b06ccda931c055d7fa2d63bfbb604112f3a7fe0edb20d0647c698e00d9c63eceec530e0001920e7162d50b68ae479d1edae00c27dc6eb1eae0808dbef2c",
+  "sessionKey": "jiN7p/09HWc/vm6mhZ+RxA==:lWokEF22UmK4i5REg795P4M7GejCRzTbVDumo55G32HPJpOSEXsXS+eFk1icJAVIId1+5GJtwtF4k7FcVUuIJQS6sAOE7YoHaoiPcvFNWQWHuLTQBADt28V5x2MYw9BnA3pkkGWYd/JPiVEUJ44kHNuR/OdQ+thFY5bAH6Yy6QQBW8S5PndMQ1DwELRlGa2fLlgsKp7pwxnwO6hTFuM7KU3fWtkLPCefsq0iWNkpw3MSI+Lz66Y+yi996QHrap8L9qni67kmBxrfXh8QrNuuTU8jG1lgTx4Hn6CUaNRf3K9pM0EP+cu4Us4bu/Hs4dGL2I3bWqCnMZfhiwAoetbiXw==",
+  "comment": "VOLRam DATA · checkpoint limpio: módulo estadístico V1, dominio IGN, profundidades y señales sísmicas."
 }

@@ -1,8 +1,8 @@
 {
-  "version": "0.3.15",
+  "version": "0.3.16",
   "nativeVersion": "0.3.1",
-  "url": "https://github.com/ramsesxdpy/tenerife-volcanic-system-updates/releases/download/v0.3.15/update-0.3.15.zip",
-  "checksum": "0db0843abfb1d193713f8b1a15cc10a26c1deeeaef497b917c6a5c92662a30cd41685981f1e6d2a4ee252522dbcf7a47259b593db88f71e0df22623fffd2acd5641763265e3587a8528770bcef3a6ade053394ef63210f8b857ef5ba14fb8f9c8089753ef9b026154b11db20cf270813241524fc598f80ac053d53a4daafee487ddbeda99aff84bc9b5940d4b180952e2289af08e70e2c02d3198184414da6e8f124039b24cfde7efc3c1fb6bbcbafc8d73f6a81b1224a85fa4044c14844e880853431fc1fe61cfad4883a02ed51b79a04479d7046d68b097fb0932477d48f7319b65f88c701e69980cf2132cdb42fe068efc9f0912e53a6b8fc541ff50252eb",
-  "sessionKey": "uViDhtkglScJ00PN+HMkRA==:BDbX1XAXXPkdScAr+9kMgvapALV7vQkZh8p123z9IKeaL+9/HWNoebJTOSb7u/MxmOW4z7WUtBRGqu/5EWRKQI8GSH0GBhTr5ps2zWh4M553k/fdxo4qqYrvenuQJUmZIAUUgrq9CmP4TdFSz6yk0s1LyGHNYY8h52FW7B5YrOa/syfdlexM78FUEKhgC1UqbuikzgxfVzFaMNJVrTCsebwx/aJtk/QF2ZOEkAXbZHXa67AtR3PbiQ12wYfqBaUPoVCyeRKuGi+eQpJWMuF43yRKAdB126F62Jl4htb6o3IHP/deNiqIyKlo58CkmMU7Hddydt8Y2J+n87DAF1r6qA==",
-  "comment": "Migración automática de profundidades históricas IGN."
+  "url": "https://github.com/ramsesxdpy/tenerife-volcanic-system-updates/releases/download/v0.3.16/update-0.3.16.zip",
+  "checksum": "aaf62dea4a14db062e41a5cf19b20a70820e251a660a95ec0b954b11dd0f0e53468a1135241aa56c1cc7b3ea0e3f9011fd08d06a79489703e4774b5b6af9175f76c27ad69f19edd76805638321627fb03cda1f1731fcd2b7cb4dead85e1fcb457de8b60d9e2c719c2e5282a6f2047034b8d32ef1e7ce857b6a34204f78f66b3648fd6313fa1dbdbbb08cc006239c6b7d122e72f3c30bf5d1adc468b8caa5012ac55c0b7e038e98e79a7f2950f24dbac3f18b85ca4153fb2613fb410e95db2ee958a2e0de0b8f21597ae8ca0ce28d31e66ac9991e99c3471f044f5839c42241053b33b9a65290cc8b5077d52eeba6dc8a6e3e732a24e200185ad653915e678cea",
+  "sessionKey": "d+FHf5/eAFw/POMdJeVozg==:OqEqlAgm2nweo3j6D1lci3yhaPLbXh7DfAAL8iColwhHF3Id7yqRJh8KvVR67mMPDV6lmaE1sCjCf5WAq4LqDRXQj7P//ZDbUnxnD1roQwi/BHsTkQoJo5iKN2+1jP1yW1dcyg/kGnbMdQC2TwZLopLSB3gwxKSJEJtebqqbZzhaC1TDT6YCLvvIL7Xn3sBSEiA3kkGS9WvKWCfKjw10pgSoSAj43v/ZfztpWnuiko4KEtUO5ZsOlt7fmsCf7cqvB/NCM9tEhzRKuLc5jg7e4BnREVxYMdSuCtfpp9rOJlbxW8eA50t7GCbVhFUEvVB6B+1SztQD7npOvtYMBi9+AQ==",
+  "comment": "Pulido del visor: advertencia de datum, escala y norte dinámicos, e interacción móvil de gráficos."
 }

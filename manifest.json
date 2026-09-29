@@ -1,8 +1,8 @@
 {
-  "version": "0.3.14",
+  "version": "0.3.15",
   "nativeVersion": "0.3.1",
-  "url": "https://github.com/ramsesxdpy/tenerife-volcanic-system-updates/releases/download/v0.3.14/update-0.3.14.zip",
-  "checksum": "b66d2ebc918177dc730f54519fb24c908460eabf04ee7fbd1ed3511df19edb906f5df0d65586684bda4dbd636b08c8e9b8fa2b3523a4867e97ec03b91891a6428c9a7e51596c6f2c1fe36cee5b7136f633070397f2e8ba9aa6161b2eb6934365e3193c2ff5c1f9ee622fd5516c4aa60006cb02367c33645639b90a91769c1f595acea0d13a3a01ca1c7454832363f1e953afe419a4dc65668be602d19d28be4822708fac289d41d0b483933b64c21beaec30531401596c5f1b38008784d28f11866a3b06ccda931c055d7fa2d63bfbb604112f3a7fe0edb20d0647c698e00d9c63eceec530e0001920e7162d50b68ae479d1edae00c27dc6eb1eae0808dbef2c",
-  "sessionKey": "jiN7p/09HWc/vm6mhZ+RxA==:lWokEF22UmK4i5REg795P4M7GejCRzTbVDumo55G32HPJpOSEXsXS+eFk1icJAVIId1+5GJtwtF4k7FcVUuIJQS6sAOE7YoHaoiPcvFNWQWHuLTQBADt28V5x2MYw9BnA3pkkGWYd/JPiVEUJ44kHNuR/OdQ+thFY5bAH6Yy6QQBW8S5PndMQ1DwELRlGa2fLlgsKp7pwxnwO6hTFuM7KU3fWtkLPCefsq0iWNkpw3MSI+Lz66Y+yi996QHrap8L9qni67kmBxrfXh8QrNuuTU8jG1lgTx4Hn6CUaNRf3K9pM0EP+cu4Us4bu/Hs4dGL2I3bWqCnMZfhiwAoetbiXw==",
-  "comment": "VOLRam DATA · checkpoint limpio: módulo estadístico V1, dominio IGN, profundidades y señales sísmicas."
+  "url": "https://github.com/ramsesxdpy/tenerife-volcanic-system-updates/releases/download/v0.3.15/update-0.3.15.zip",
+  "checksum": "0db0843abfb1d193713f8b1a15cc10a26c1deeeaef497b917c6a5c92662a30cd41685981f1e6d2a4ee252522dbcf7a47259b593db88f71e0df22623fffd2acd5641763265e3587a8528770bcef3a6ade053394ef63210f8b857ef5ba14fb8f9c8089753ef9b026154b11db20cf270813241524fc598f80ac053d53a4daafee487ddbeda99aff84bc9b5940d4b180952e2289af08e70e2c02d3198184414da6e8f124039b24cfde7efc3c1fb6bbcbafc8d73f6a81b1224a85fa4044c14844e880853431fc1fe61cfad4883a02ed51b79a04479d7046d68b097fb0932477d48f7319b65f88c701e69980cf2132cdb42fe068efc9f0912e53a6b8fc541ff50252eb",
+  "sessionKey": "uViDhtkglScJ00PN+HMkRA==:BDbX1XAXXPkdScAr+9kMgvapALV7vQkZh8p123z9IKeaL+9/HWNoebJTOSb7u/MxmOW4z7WUtBRGqu/5EWRKQI8GSH0GBhTr5ps2zWh4M553k/fdxo4qqYrvenuQJUmZIAUUgrq9CmP4TdFSz6yk0s1LyGHNYY8h52FW7B5YrOa/syfdlexM78FUEKhgC1UqbuikzgxfVzFaMNJVrTCsebwx/aJtk/QF2ZOEkAXbZHXa67AtR3PbiQ12wYfqBaUPoVCyeRKuGi+eQpJWMuF43yRKAdB126F62Jl4htb6o3IHP/deNiqIyKlo58CkmMU7Hddydt8Y2J+n87DAF1r6qA==",
+  "comment": "Migración automática de profundidades históricas IGN."
 }
